@@ -5,7 +5,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
-
 import entities.Client;
 import entities.Order;
 import entities.OrderItem;
@@ -59,12 +58,6 @@ public class Program {
 		
 		System.out.println();
 		System.out.println(order);
-		
-		
-		
-
-		
-		
 		
 		sc.close();
 	}
